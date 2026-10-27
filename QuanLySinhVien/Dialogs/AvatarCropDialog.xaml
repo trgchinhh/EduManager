@@ -1,0 +1,59 @@
+<Window x:Class="QuanLySinhVien.Dialogs.AvatarCropDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Căn chỉnh ảnh đại diện"
+        Width="500"
+        Height="590"
+        MinWidth="500"
+        MinHeight="590"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterOwner"
+        Background="{DynamicResource AppBackgroundBrush}"
+        FontFamily="{StaticResource AppFont}"
+        Icon="/Assets/EduManager.ico">
+    <Grid Margin="24">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <StackPanel>
+            <TextBlock Text="Căn chỉnh ảnh đại diện" Style="{StaticResource PageTitle}" FontSize="21" />
+            <TextBlock Text="Kéo ảnh để chọn vị trí, sau đó điều chỉnh độ phóng to." Style="{StaticResource PageSubtitle}" />
+        </StackPanel>
+
+        <Grid Grid.Row="1" Margin="0,20,0,14">
+            <Border Width="304" Height="304" Background="{DynamicResource SurfaceBrush}" BorderBrush="{DynamicResource AppBorderBrush}" BorderThickness="2" CornerRadius="152" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Grid x:Name="PreviewViewport" Width="300" Height="300" ClipToBounds="True" HorizontalAlignment="Center" VerticalAlignment="Center" Background="{DynamicResource SurfaceSoftBrush}"
+                      MouseLeftButtonDown="PreviewViewport_MouseLeftButtonDown"
+                      MouseMove="PreviewViewport_MouseMove"
+                      MouseLeftButtonUp="PreviewViewport_MouseLeftButtonUp">
+                    <Grid.Clip>
+                        <EllipseGeometry Center="150,150" RadiusX="150" RadiusY="150" />
+                    </Grid.Clip>
+                    <Canvas Width="300" Height="300" IsHitTestVisible="False">
+                        <Image x:Name="PreviewImage" Stretch="Fill" />
+                    </Canvas>
+                </Grid>
+            </Border>
+        </Grid>
+
+        <Grid Grid.Row="2" Margin="5,0,5,18">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="−" FontSize="19" Foreground="{DynamicResource TextSecondaryBrush}" VerticalAlignment="Center" />
+            <Slider x:Name="ZoomSlider" Grid.Column="1" Minimum="1" Maximum="3" Value="1" TickFrequency="0.1" IsSnapToTickEnabled="False" Margin="12,0" VerticalAlignment="Center" ValueChanged="ZoomSlider_ValueChanged" />
+            <TextBlock Grid.Column="2" Text="+" FontSize="19" Foreground="{DynamicResource TextSecondaryBrush}" VerticalAlignment="Center" />
+        </Grid>
+
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button Content="Hủy" Style="{StaticResource SecondaryButton}" Width="95" Margin="0,0,8,0" IsCancel="True" />
+            <Button Content="Dùng ảnh này" Style="{StaticResource PrimaryButton}" Width="130" Click="UseImage_Click" />
+        </StackPanel>
+    </Grid>
+</Window>

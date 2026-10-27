@@ -1,0 +1,147 @@
+<Window x:Class="QuanLySinhVien.Dialogs.StudentDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Sinh viên"
+        Width="720"
+        SizeToContent="Height"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterOwner"
+        ShowInTaskbar="False"
+        Background="{DynamicResource SurfaceBrush}"
+        FontFamily="{StaticResource AppFont}"
+        UseLayoutRounding="True"
+        SnapsToDevicePixels="True">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0" Padding="28,24,28,20">
+            <Grid>
+                <StackPanel VerticalAlignment="Center">
+                    <TextBlock x:Name="HeaderTitle" Text="Thêm sinh viên" FontSize="20" FontWeight="Bold" Foreground="{DynamicResource TextPrimaryBrush}" />
+                    <TextBlock x:Name="HeaderSubtitle" Text="Nhập thông tin sinh viên và gán vào lớp học." FontSize="12" Foreground="{DynamicResource TextSecondaryBrush}" Margin="0,3,0,0" />
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <Border Grid.Row="1" BorderBrush="{DynamicResource AppBorderSoftBrush}" BorderThickness="0,1,0,0" Padding="28,20,28,22">
+            <StackPanel>
+                <TextBlock Text="Họ và tên *" Style="{StaticResource FieldLabel}" />
+                <TextBox x:Name="FullNameBox" Style="{StaticResource InputTextBox}" MaxLength="100" />
+
+                <Grid Margin="0,14,0,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*" />
+                        <ColumnDefinition Width="16" />
+                        <ColumnDefinition Width="1*" />
+                    </Grid.ColumnDefinitions>
+
+                    <StackPanel Grid.Column="0">
+                        <TextBlock Text="Mã sinh viên *" Style="{StaticResource FieldLabel}" />
+                        <TextBox x:Name="IdBox" Style="{StaticResource InputTextBox}" MaxLength="20" />
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="2">
+                        <TextBlock Text="Lớp học *" Style="{StaticResource FieldLabel}" />
+                        <ComboBox x:Name="ClassBox" Style="{StaticResource InputComboBox}" />
+                    </StackPanel>
+                </Grid>
+
+                <Grid Margin="0,14,0,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*" />
+                        <ColumnDefinition Width="16" />
+                        <ColumnDefinition Width="1*" />
+                    </Grid.ColumnDefinitions>
+
+                    <StackPanel Grid.Column="0">
+                        <TextBlock Text="Ngày sinh" Style="{StaticResource FieldLabel}" />
+                        <DatePicker x:Name="BirthDatePicker"
+                                    Style="{StaticResource InputDatePicker}"
+                                    SelectedDateFormat="Short"
+                                    Language="vi-VN" />
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="2">
+                        <TextBlock Text="Giới tính" Style="{StaticResource FieldLabel}" />
+                        <ComboBox x:Name="GenderBox" Style="{StaticResource InputComboBox}" />
+                    </StackPanel>
+                </Grid>
+
+                <Grid Margin="0,14,0,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*" />
+                        <ColumnDefinition Width="16" />
+                        <ColumnDefinition Width="1*" />
+                    </Grid.ColumnDefinitions>
+
+                    <StackPanel Grid.Column="0">
+                        <TextBlock Text="Email" Style="{StaticResource FieldLabel}" />
+                        <TextBox x:Name="EmailBox" Style="{StaticResource InputTextBox}" MaxLength="100" />
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="2">
+                        <TextBlock Text="Số điện thoại" Style="{StaticResource FieldLabel}" />
+                        <TextBox x:Name="PhoneBox" Style="{StaticResource InputTextBox}" MaxLength="20" />
+                    </StackPanel>
+                </Grid>
+
+                <TextBlock Text="Địa chỉ" Style="{StaticResource FieldLabel}" Margin="2,14,0,7" />
+                <TextBox x:Name="AddressBox" Style="{StaticResource InputTextBox}" MaxLength="200" />
+
+                <Grid Margin="0,14,0,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*" />
+                        <ColumnDefinition Width="16" />
+                        <ColumnDefinition Width="1*" />
+                    </Grid.ColumnDefinitions>
+
+                    <StackPanel Grid.Column="0">
+                        <TextBlock Text="Điểm trung bình (0 - 10) *" Style="{StaticResource FieldLabel}" />
+                        <TextBox x:Name="ScoreBox" Style="{StaticResource InputTextBox}" MaxLength="4" />
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="2">
+                        <TextBlock Text="Trạng thái" Style="{StaticResource FieldLabel}" />
+                        <ComboBox x:Name="StatusBox" Style="{StaticResource InputComboBox}" />
+                    </StackPanel>
+                </Grid>
+
+                <Border x:Name="ErrorBorder"
+                        Background="{DynamicResource DangerSoftBrush}"
+                        BorderBrush="{DynamicResource DangerBrush}"
+                        BorderThickness="1"
+                        CornerRadius="8"
+                        Padding="11,9"
+                        Margin="0,16,0,0"
+                        Visibility="Collapsed">
+                    <TextBlock x:Name="ErrorText" FontSize="12" Foreground="{DynamicResource DangerBrush}" TextWrapping="Wrap" />
+                </Border>
+            </StackPanel>
+        </Border>
+
+        <Border Grid.Row="2"
+                Background="{DynamicResource SurfaceSoftBrush}"
+                BorderBrush="{DynamicResource AppBorderSoftBrush}"
+                BorderThickness="0,1,0,0"
+                Padding="24,15">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Button Content="Hủy bỏ"
+                        Style="{StaticResource SecondaryButton}"
+                        Width="96"
+                        Margin="0,0,10,0"
+                        IsCancel="True" />
+                <Button x:Name="SaveButton"
+                        Content="Lưu sinh viên"
+                        Style="{StaticResource PrimaryButton}"
+                        Width="128"
+                        IsDefault="True"
+                        Click="Save_Click" />
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

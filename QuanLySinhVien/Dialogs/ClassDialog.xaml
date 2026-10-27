@@ -1,0 +1,108 @@
+<Window x:Class="QuanLySinhVien.Dialogs.ClassDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Lớp học"
+        Width="640"
+        SizeToContent="Height"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterOwner"
+        ShowInTaskbar="False"
+        Background="{DynamicResource SurfaceBrush}"
+        FontFamily="{StaticResource AppFont}"
+        UseLayoutRounding="True"
+        SnapsToDevicePixels="True">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0" Padding="28,24,28,20">
+            <Grid>
+                <StackPanel VerticalAlignment="Center">
+                    <TextBlock x:Name="HeaderTitle" Text="Thêm lớp học" FontSize="20" FontWeight="Bold" Foreground="{DynamicResource TextPrimaryBrush}" />
+                    <TextBlock x:Name="HeaderSubtitle" Text="Tạo không gian lớp học mới cho sinh viên của bạn." FontSize="12" Foreground="{DynamicResource TextSecondaryBrush}" Margin="0,3,0,0" />
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <Border Grid.Row="1" BorderBrush="{DynamicResource AppBorderSoftBrush}" BorderThickness="0,1,0,0" Padding="28,22,28,24">
+            <StackPanel>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*" />
+                        <ColumnDefinition Width="16" />
+                        <ColumnDefinition Width="1*" />
+                    </Grid.ColumnDefinitions>
+
+                    <StackPanel Grid.Column="0">
+                        <TextBlock Text="Mã lớp *" Style="{StaticResource FieldLabel}" />
+                        <TextBox x:Name="IdBox" Style="{StaticResource InputTextBox}" MaxLength="20" />
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="2">
+                        <TextBlock Text="Niên khóa" Style="{StaticResource FieldLabel}" />
+                        <TextBox x:Name="SchoolYearBox" Style="{StaticResource InputTextBox}" MaxLength="20" />
+                    </StackPanel>
+                </Grid>
+
+                <TextBlock Text="Tên lớp *" Style="{StaticResource FieldLabel}" Margin="2,16,0,7" />
+                <TextBox x:Name="NameBox" Style="{StaticResource InputTextBox}" MaxLength="120" />
+
+                <TextBlock Text="Môn học *" Style="{StaticResource FieldLabel}" Margin="2,16,0,7" />
+                <TextBox x:Name="SubjectBox" Style="{StaticResource InputTextBox}" MaxLength="120" />
+
+                <Grid Margin="0,16,0,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*" />
+                        <ColumnDefinition Width="16" />
+                        <ColumnDefinition Width="1*" />
+                    </Grid.ColumnDefinitions>
+
+                    <StackPanel Grid.Column="0">
+                        <TextBlock Text="Khoa / Bộ môn" Style="{StaticResource FieldLabel}" />
+                        <ComboBox x:Name="MajorBox" Style="{StaticResource InputComboBox}" />
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="2">
+                        <TextBlock Text="Phòng học" Style="{StaticResource FieldLabel}" />
+                        <TextBox x:Name="RoomBox" Style="{StaticResource InputTextBox}" MaxLength="40" />
+                    </StackPanel>
+                </Grid>
+
+                <Border x:Name="ErrorBorder"
+                        Background="{DynamicResource DangerSoftBrush}"
+                        BorderBrush="{DynamicResource DangerBrush}"
+                        BorderThickness="1"
+                        CornerRadius="8"
+                        Padding="11,9"
+                        Margin="0,18,0,0"
+                        Visibility="Collapsed">
+                    <TextBlock x:Name="ErrorText" FontSize="12" Foreground="{DynamicResource DangerBrush}" TextWrapping="Wrap" />
+                </Border>
+            </StackPanel>
+        </Border>
+
+        <Border Grid.Row="2"
+                Background="{DynamicResource SurfaceSoftBrush}"
+                BorderBrush="{DynamicResource AppBorderSoftBrush}"
+                BorderThickness="0,1,0,0"
+                Padding="24,15">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Button Content="Hủy bỏ"
+                        Style="{StaticResource SecondaryButton}"
+                        Width="96"
+                        Margin="0,0,10,0"
+                        IsCancel="True" />
+                <Button x:Name="SaveButton"
+                        Content="Lưu lớp học"
+                        Style="{StaticResource PrimaryButton}"
+                        Width="128"
+                        IsDefault="True"
+                        Click="Save_Click" />
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

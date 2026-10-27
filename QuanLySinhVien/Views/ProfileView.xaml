@@ -1,0 +1,338 @@
+<UserControl x:Class="QuanLySinhVien.Views.ProfileView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             FontFamily="{StaticResource AppFont}">
+    <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled">
+        <StackPanel>
+            <Grid Margin="0,0,0,20">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+
+                <StackPanel>
+                    <TextBlock Text="Thông tin giảng viên" Style="{StaticResource PageTitle}" />
+                    <TextBlock Text="Cập nhật hồ sơ cá nhân và quản lý mật khẩu đăng nhập."
+                               Style="{StaticResource PageSubtitle}" />
+                </StackPanel>
+
+                <Border Grid.Column="1"
+                        Background="{DynamicResource AccentSoftBrush}"
+                        CornerRadius="10"
+                        Padding="13,8"
+                        VerticalAlignment="Center">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="&#xE77B;"
+                                   FontFamily="{StaticResource IconFont}"
+                                   FontSize="14"
+                                   Foreground="{DynamicResource AccentBrush}"
+                                   VerticalAlignment="Center" />
+                        <TextBlock x:Name="HeaderAccountText"
+                                   Text="Tài khoản giảng viên"
+                                   FontSize="11.5"
+                                   FontWeight="SemiBold"
+                                   Foreground="{DynamicResource AccentDarkBrush}"
+                                   Margin="7,0,0,0" />
+                    </StackPanel>
+                </Border>
+            </Grid>
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="330" />
+                    <ColumnDefinition Width="20" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="0">
+                    <Border Style="{StaticResource Card}" Padding="0">
+                        <StackPanel>
+                            <Border Background="{DynamicResource AccentGradientBrush}"
+                                    CornerRadius="16,16,0,0"
+                                    Padding="22,26,22,22">
+                                <StackPanel>
+                                    <Border Width="86"
+                                            Height="86"
+                                            CornerRadius="43"
+                                            Background="{DynamicResource AccentGradientBrush}"
+                                            BorderBrush="#55FFFFFF"
+                                            BorderThickness="2"
+                                            HorizontalAlignment="Center">
+                                        <Grid>
+                                            <TextBlock x:Name="SummaryInitials"
+                                                       FontSize="25"
+                                                       FontWeight="Bold"
+                                                       Foreground="White"
+                                                       HorizontalAlignment="Center"
+                                                       VerticalAlignment="Center" />
+                                            <Ellipse x:Name="SummaryAvatarImage"
+                                                     Width="82"
+                                                     Height="82"
+                                                     Visibility="Collapsed" />
+                                        </Grid>
+                                    </Border>
+                                    <Button Content="Đổi ảnh đại diện"
+                                            Style="{StaticResource SecondaryButton}"
+                                            Height="32"
+                                            Padding="12,0"
+                                            HorizontalAlignment="Center"
+                                            Margin="0,10,0,0"
+                                            Click="ChangeAvatar_Click" />
+
+                                    <TextBlock x:Name="SummaryName"
+                                               FontSize="19"
+                                               FontWeight="Bold"
+                                               Foreground="White"
+                                               HorizontalAlignment="Center"
+                                               TextAlignment="Center"
+                                               TextWrapping="Wrap"
+                                               Margin="0,13,0,0" />
+                                    <TextBlock x:Name="SummaryTitle"
+                                               FontSize="11.5"
+                                               Foreground="#C7D2FE"
+                                               HorizontalAlignment="Center"
+                                               TextAlignment="Center"
+                                               Margin="0,4,0,0" />
+                                    <TextBlock x:Name="SummaryDepartment"
+                                               FontSize="10.5"
+                                               Foreground="#A5B4FC"
+                                               HorizontalAlignment="Center"
+                                               TextAlignment="Center"
+                                               TextTrimming="CharacterEllipsis"
+                                               Margin="0,5,0,0" />
+
+                                    <Border Background="#1CFFFFFF"
+                                            BorderBrush="#26FFFFFF"
+                                            BorderThickness="1"
+                                            CornerRadius="8"
+                                            Padding="10,5"
+                                            HorizontalAlignment="Center"
+                                            Margin="0,13,0,0">
+                                        <TextBlock x:Name="SummaryAccount"
+                                                   FontSize="10.5"
+                                                   Foreground="#E0E7FF" />
+                                    </Border>
+                                </StackPanel>
+                            </Border>
+
+                            <StackPanel Margin="20,18,20,20">
+                                <StackPanel Orientation="Horizontal" Margin="0,0,0,12">
+                                    <TextBlock Text="&#xE715;"
+                                               FontFamily="{StaticResource IconFont}"
+                                               FontSize="14"
+                                               Foreground="{DynamicResource AccentBrush}"
+                                               VerticalAlignment="Center"
+                                               Width="20" />
+                                    <TextBlock x:Name="SummaryEmail"
+                                               FontSize="11.5"
+                                               Foreground="{DynamicResource TextSecondaryBrush}"
+                                               VerticalAlignment="Center"
+                                               TextTrimming="CharacterEllipsis" />
+                                </StackPanel>
+
+                                <StackPanel Orientation="Horizontal" Margin="0,0,0,12">
+                                    <TextBlock Text="&#xE717;"
+                                               FontFamily="{StaticResource IconFont}"
+                                               FontSize="14"
+                                               Foreground="{DynamicResource SuccessBrush}"
+                                               VerticalAlignment="Center"
+                                               Width="20" />
+                                    <TextBlock x:Name="SummaryPhone"
+                                               FontSize="11.5"
+                                               Foreground="{DynamicResource TextSecondaryBrush}"
+                                               VerticalAlignment="Center" />
+                                </StackPanel>
+
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="&#xE787;"
+                                               FontFamily="{StaticResource IconFont}"
+                                               FontSize="14"
+                                               Foreground="{DynamicResource WarningBrush}"
+                                               VerticalAlignment="Center"
+                                               Width="20" />
+                                    <TextBlock x:Name="SummaryBirth"
+                                               FontSize="11.5"
+                                               Foreground="{DynamicResource TextSecondaryBrush}"
+                                               VerticalAlignment="Center" />
+                                </StackPanel>
+
+                                <Border Height="1" Background="{DynamicResource AppBorderSoftBrush}" Margin="0,18,0,16" />
+
+                                <UniformGrid Columns="2">
+                                    <Border Background="{DynamicResource SurfaceSoftBrush}" CornerRadius="10" Padding="12" Margin="0,0,6,0">
+                                        <StackPanel>
+                                            <TextBlock Text="Lớp học" FontSize="10.5" Foreground="{DynamicResource TextSecondaryBrush}" />
+                                            <TextBlock x:Name="SummaryClasses" Text="0" FontSize="20" FontWeight="Bold" Foreground="{DynamicResource TextPrimaryBrush}" Margin="0,4,0,0" />
+                                        </StackPanel>
+                                    </Border>
+                                    <Border Background="{DynamicResource SurfaceSoftBrush}" CornerRadius="10" Padding="12" Margin="6,0,0,0">
+                                        <StackPanel>
+                                            <TextBlock Text="Sinh viên" FontSize="10.5" Foreground="{DynamicResource TextSecondaryBrush}" />
+                                            <TextBlock x:Name="SummaryStudents" Text="0" FontSize="20" FontWeight="Bold" Foreground="{DynamicResource TextPrimaryBrush}" Margin="0,4,0,0" />
+                                        </StackPanel>
+                                    </Border>
+                                </UniformGrid>
+                            </StackPanel>
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+
+                <StackPanel Grid.Column="2">
+                    <Border Style="{StaticResource Card}">
+                        <StackPanel>
+                            <TextBlock Text="Thông tin cá nhân" Style="{StaticResource SectionTitle}" />
+                            <TextBlock Text="Những thay đổi sẽ được áp dụng cho tài khoản đang đăng nhập."
+                                       Style="{StaticResource MutedText}"
+                                       Margin="0,3,0,18" />
+
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="1*" />
+                                    <ColumnDefinition Width="16" />
+                                    <ColumnDefinition Width="1*" />
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto" />
+                                    <RowDefinition Height="Auto" />
+                                    <RowDefinition Height="Auto" />
+                                    <RowDefinition Height="Auto" />
+                                </Grid.RowDefinitions>
+
+                                <StackPanel Grid.Row="0" Grid.Column="0">
+                                    <TextBlock Text="Họ và tên *" Style="{StaticResource FieldLabel}" />
+                                    <TextBox x:Name="FullNameBox" Style="{StaticResource InputTextBox}" MaxLength="80" />
+                                </StackPanel>
+
+                                <StackPanel Grid.Row="0" Grid.Column="2">
+                                    <TextBlock Text="Tên đăng nhập" Style="{StaticResource FieldLabel}" />
+                                    <TextBox x:Name="UsernameBox" Style="{StaticResource InputTextBox}" MaxLength="40" />
+                                </StackPanel>
+
+                                <StackPanel Grid.Row="1" Grid.Column="0" Margin="0,16,0,0">
+                                    <TextBlock Text="Email *" Style="{StaticResource FieldLabel}" />
+                                    <TextBox x:Name="EmailBox" Style="{StaticResource InputTextBox}" MaxLength="100" />
+                                </StackPanel>
+
+                                <StackPanel Grid.Row="1" Grid.Column="2" Margin="0,16,0,0">
+                                    <TextBlock Text="Số điện thoại" Style="{StaticResource FieldLabel}" />
+                                    <TextBox x:Name="PhoneBox" Style="{StaticResource InputTextBox}" MaxLength="20" />
+                                </StackPanel>
+
+                                <StackPanel Grid.Row="2" Grid.Column="0" Margin="0,16,0,0">
+                                    <TextBlock Text="Học hàm, học vị" Style="{StaticResource FieldLabel}" />
+                                    <ComboBox x:Name="DegreeBox" Style="{StaticResource InputComboBox}" />
+                                </StackPanel>
+
+                                <StackPanel Grid.Row="2" Grid.Column="2" Margin="0,16,0,0">
+                                    <TextBlock Text="Khoa / Bộ môn" Style="{StaticResource FieldLabel}" />
+                                    <ComboBox x:Name="DepartmentBox" Style="{StaticResource InputComboBox}" />
+                                </StackPanel>
+
+                                <StackPanel Grid.Row="3" Grid.Column="0" Margin="0,16,0,0">
+                                    <TextBlock Text="Ngày sinh" Style="{StaticResource FieldLabel}" />
+                                    <DatePicker x:Name="BirthDatePicker"
+                                                Style="{StaticResource InputDatePicker}"
+                                                SelectedDateFormat="Short"
+                                                Language="vi-VN" />
+                                </StackPanel>
+
+                                <StackPanel Grid.Row="3" Grid.Column="2" Margin="0,16,0,0">
+                                    <TextBlock Text="Giới tính" Style="{StaticResource FieldLabel}" />
+                                    <ComboBox x:Name="GenderBox" Style="{StaticResource InputComboBox}" />
+                                </StackPanel>
+                            </Grid>
+
+                            <Border x:Name="ProfileErrorBorder"
+                                    Background="{DynamicResource DangerSoftBrush}"
+                                    BorderBrush="{DynamicResource DangerBrush}"
+                                    BorderThickness="1"
+                                    CornerRadius="8"
+                                    Padding="11,9"
+                                    Margin="0,18,0,0"
+                                    Visibility="Collapsed">
+                                <TextBlock x:Name="ProfileErrorText" FontSize="12" Foreground="{DynamicResource DangerBrush}" TextWrapping="Wrap" />
+                            </Border>
+
+                            <Grid Margin="0,20,0,0">
+                                <TextBlock x:Name="ProfileMessage"
+                                           FontSize="11.5"
+                                           FontWeight="SemiBold"
+                                           Foreground="{DynamicResource SuccessBrush}"
+                                           VerticalAlignment="Center"
+                                           Visibility="Collapsed" />
+
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                                    <Button Content="Hoàn tác"
+                                            Style="{StaticResource SecondaryButton}"
+                                            Width="100"
+                                            Margin="0,0,10,0"
+                                            Click="ResetProfile_Click" />
+                                    <Button Content="Lưu thay đổi"
+                                            Style="{StaticResource PrimaryButton}"
+                                            Width="136"
+                                            Click="SaveProfile_Click" />
+                                </StackPanel>
+                            </Grid>
+                        </StackPanel>
+                    </Border>
+
+                    <Border Style="{StaticResource Card}" Margin="0,20,0,0">
+                        <StackPanel>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Border Width="38" Height="38" CornerRadius="10" Background="{DynamicResource WarningSoftBrush}">
+                                    <TextBlock Text="&#xE72E;" FontFamily="{StaticResource IconFont}" FontSize="16" Foreground="{DynamicResource WarningBrush}" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                                </Border>
+                                <StackPanel Grid.Column="1" Margin="11,0,0,0" VerticalAlignment="Center">
+                                    <TextBlock Text="Đổi mật khẩu" Style="{StaticResource SectionTitle}" />
+                                    <TextBlock Text="Mật khẩu mới cần tối thiểu 6 ký tự." Style="{StaticResource MutedText}" Margin="0,2,0,0" />
+                                </StackPanel>
+                            </Grid>
+
+                            <Grid Margin="0,18,0,0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="1*" />
+                                    <ColumnDefinition Width="12" />
+                                    <ColumnDefinition Width="1*" />
+                                    <ColumnDefinition Width="12" />
+                                    <ColumnDefinition Width="1*" />
+                                </Grid.ColumnDefinitions>
+
+                                <StackPanel Grid.Column="0">
+                                    <TextBlock Text="Mật khẩu hiện tại" Style="{StaticResource FieldLabel}" />
+                                    <PasswordBox x:Name="CurrentPasswordBox" Style="{StaticResource InputPasswordBox}" />
+                                </StackPanel>
+                                <StackPanel Grid.Column="2">
+                                    <TextBlock Text="Mật khẩu mới" Style="{StaticResource FieldLabel}" />
+                                    <PasswordBox x:Name="NewPasswordBox" Style="{StaticResource InputPasswordBox}" />
+                                </StackPanel>
+                                <StackPanel Grid.Column="4">
+                                    <TextBlock Text="Xác nhận mật khẩu" Style="{StaticResource FieldLabel}" />
+                                    <PasswordBox x:Name="ConfirmPasswordBox" Style="{StaticResource InputPasswordBox}" />
+                                </StackPanel>
+                            </Grid>
+
+                            <Grid Margin="0,18,0,0">
+                                <TextBlock x:Name="PasswordMessage"
+                                           FontSize="11.5"
+                                           FontWeight="SemiBold"
+                                           VerticalAlignment="Center"
+                                           TextWrapping="Wrap"
+                                           Visibility="Collapsed" />
+
+                                <Button Content="Cập nhật mật khẩu"
+                                        Style="{StaticResource PrimaryButton}"
+                                        Width="162"
+                                        HorizontalAlignment="Right"
+                                        Click="ChangePassword_Click" />
+                            </Grid>
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+            </Grid>
+        </StackPanel>
+    </ScrollViewer>
+</UserControl>

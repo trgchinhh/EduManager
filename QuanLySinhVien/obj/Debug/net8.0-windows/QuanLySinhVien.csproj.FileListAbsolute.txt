@@ -1,0 +1,263 @@
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\bin\Debug\net8.0-windows\QuanLySinhVien.exe
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\bin\Debug\net8.0-windows\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\bin\Debug\net8.0-windows\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\bin\Debug\net8.0-windows\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\bin\Debug\net8.0-windows\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\Dialogs\ClassDialog.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\Dialogs\StudentDialog.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\MainWindow.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\Themes\Theme.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\Views\ClassesView.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\Views\DashboardView.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\Views\ProfileView.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\Views\StatisticsView.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\Views\StudentsView.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\Dialogs\ClassDialog.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\Dialogs\StudentDialog.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\Views\ClassesView.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\Views\DashboardView.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\Views\ProfileView.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\Views\StatisticsView.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\Views\StudentsView.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\App.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien_MarkupCompile.cache
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien_MarkupCompile.lref
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\App.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.g.resources
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.AssemblyInfoInputs.cache
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.AssemblyInfo.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\refint\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.genruntimeconfig.cache
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung\QuanLySinhVien\obj\Debug\net8.0-windows\ref\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\build-check\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\build-check\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\build-check\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\build-check\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-build\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-build\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-build\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-build\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\bin\Debug\net8.0-windows\QuanLySinhVien.exe
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\bin\Debug\net8.0-windows\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\bin\Debug\net8.0-windows\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\bin\Debug\net8.0-windows\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\bin\Debug\net8.0-windows\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\Dialogs\ClassDialog.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\Dialogs\StudentDialog.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\MainWindow.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\Themes\Theme.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\Views\ClassesView.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\Views\DashboardView.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\Views\ProfileView.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\Views\StatisticsView.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\Views\StudentsView.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\Dialogs\ClassDialog.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\Dialogs\StudentDialog.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\Views\ClassesView.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\Views\DashboardView.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\Views\ProfileView.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\Views\StatisticsView.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\Views\StudentsView.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\App.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien_MarkupCompile.cache
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien_MarkupCompile.lref
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\App.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.g.resources
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.AssemblyInfoInputs.cache
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.AssemblyInfo.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\refint\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.genruntimeconfig.cache
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\ref\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\Dialogs\AvatarCropDialog.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\Dialogs\AvatarCropDialog.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-crop\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-crop\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-crop\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-crop\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-avatar\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-avatar\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-avatar\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-avatar\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-login\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-login\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-login\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-login\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-theme\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-theme\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-theme\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-theme\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-avatar-fix\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-avatar-fix\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-avatar-fix\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-avatar-fix\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-dark-color\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-dark-color\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-dark-color\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-dark-color\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-orange\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-orange\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-orange\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-orange\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-students-layout\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-students-layout\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-students-layout\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-students-layout\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-statistics-help\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-statistics-help\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-statistics-help\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-statistics-help\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\Dialogs\AboutWindow.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\Dialogs\HelpWindow.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\Dialogs\AboutWindow.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\Dialogs\HelpWindow.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-pie-labels\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-pie-labels\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-pie-labels\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-pie-labels\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-class-icons\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-class-icons\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-class-icons\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-class-icons\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-dark-controls\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-dark-controls\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-dark-controls\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-dark-controls\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-hover-avatar\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-hover-avatar\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-hover-avatar\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-hover-avatar\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-avatar-size\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-avatar-size\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-avatar-size\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-avatar-size\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-window-layout\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-window-layout\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-window-layout\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-window-layout\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-about-author\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-about-author\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-about-author\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-about-author\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-about-author-final\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-about-author-final\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-about-author-final\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-about-author-final\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-about-author-final2\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-about-author-final2\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-about-author-final2\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-about-author-final2\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-author-crop\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-author-crop\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-author-crop\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-author-crop\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-author-crop-save\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-author-crop-save\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-author-crop-save\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-author-crop-save\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-social-links\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-social-links\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-social-links\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-social-links\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-dark-menus\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-dark-menus\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-dark-menus\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-dark-menus\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\Dialogs\LecturerRegistrationWindow.baml
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\Dialogs\LecturerRegistrationWindow.g.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-ui-registration\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-ui-registration\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-ui-registration\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-ui-registration\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-password-profile-final\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-password-profile-final\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-password-profile-final\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-password-profile-final\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-degree-dropdown\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-degree-dropdown\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-degree-dropdown\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-degree-dropdown\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-department-dropdown\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-department-dropdown\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-department-dropdown\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-department-dropdown\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-input-padding\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-input-padding\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-input-padding\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-input-padding\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-input-alignment-final\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-input-alignment-final\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-input-alignment-final\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-input-alignment-final\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-input-alignment-final2\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-input-alignment-final2\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-input-alignment-final2\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-input-alignment-final2\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-input-padding5\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-input-padding5\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-input-padding5\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-input-padding5\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-input-padding8\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-input-padding8\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-input-padding8\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-input-padding8\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-class-department-dropdown\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-class-department-dropdown\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-class-department-dropdown\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-class-department-dropdown\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-final-after-publish-attempt\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-final-after-publish-attempt\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-final-after-publish-attempt\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-final-after-publish-attempt\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-theme-buttons\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-theme-buttons\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-theme-buttons\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-theme-buttons\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-theme-icon\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-theme-icon\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-theme-icon\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-theme-icon\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-login-resize\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-login-resize\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-login-resize\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-login-resize\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-class-score-columns\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-class-score-columns\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-class-score-columns\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-class-score-columns\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-dashboard-no-class-icons\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-dashboard-no-class-icons\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-dashboard-no-class-icons\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-dashboard-no-class-icons\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-remove-list-icons\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-remove-list-icons\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-remove-list-icons\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-remove-list-icons\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-student-row-numbers\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-student-row-numbers\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-student-row-numbers\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-student-row-numbers\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-scrollbar\QuanLySinhVien.exe
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-scrollbar\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-scrollbar\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-scrollbar\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-scrollbar\QuanLySinhVien.pdb
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-inline-register\QuanLySinhVien.exe
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-inline-register\QuanLySinhVien.deps.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-inline-register\QuanLySinhVien.runtimeconfig.json
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-inline-register\QuanLySinhVien.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-inline-register\QuanLySinhVien.pdb

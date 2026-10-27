@@ -1,0 +1,20 @@
+﻿QuanLySinhVien
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\
+QuanLySinhVien
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\App.xaml
+141200434741
+
+27-164764384
+198338916705
+Dialogs\AboutWindow.xaml;Dialogs\AvatarCropDialog.xaml;Dialogs\ClassDialog.xaml;Dialogs\HelpWindow.xaml;Dialogs\LecturerRegistrationWindow.xaml;Dialogs\StudentDialog.xaml;LoginWindow.xaml;MainWindow.xaml;Themes\Theme.xaml;Views\ClassesView.xaml;Views\DashboardView.xaml;Views\ProfileView.xaml;Views\StatisticsView.xaml;Views\StudentsView.xaml;
+
+False
+
