@@ -4660,6 +4660,7 @@ D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySi
 D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-sidebar-memory\zh-Hant\UIAutomationTypes.resources.dll
 D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-sidebar-memory\zh-Hant\WindowsBase.resources.dll
 D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\verify-sidebar-memory\zh-Hant\WindowsFormsIntegration.resources.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Release\net8.0-windows\win-x64\QuanLySinhVien.sourcelink.json
 D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\bin\Release\net8.0-windows\win-x64\EduManager.exe
 D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\bin\Release\net8.0-windows\win-x64\EduManager.deps.json
 D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\bin\Release\net8.0-windows\win-x64\EduManager.runtimeconfig.json

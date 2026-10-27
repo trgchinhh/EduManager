@@ -59,7 +59,10 @@
         <Grid Grid.Row="1"><Grid.ColumnDefinitions><ColumnDefinition x:Name="SidebarColumn" Width="220"/><ColumnDefinition Width="*"/></Grid.ColumnDefinitions>
             <Border Grid.Column="0" Background="{DynamicResource SurfaceSoftBrush}" BorderBrush="{DynamicResource AppBorderBrush}" BorderThickness="0,0,1,0">
                 <Grid Margin="8,12"><Grid.RowDefinitions><RowDefinition Height="Auto"/><RowDefinition Height="*"/><RowDefinition Height="Auto"/></Grid.RowDefinitions>
-                    <Button x:Name="SidebarToggleButton" Grid.Row="0" Width="34" Height="34" HorizontalAlignment="Right" Padding="0" Background="Transparent" BorderBrush="Transparent" Foreground="{DynamicResource TextSecondaryBrush}" Click="SidebarToggle_Click" ToolTip="Thu gọn thanh bên"><TextBlock x:Name="SidebarToggleIcon" Text="&#xE76B;" FontFamily="Segoe MDL2 Assets" FontSize="14" HorizontalAlignment="Center" VerticalAlignment="Center" /></Button>
+                    <StackPanel x:Name="SidebarTogglePanel" Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Center">
+                        <Button x:Name="SidebarToggleButton" Width="34" Height="34" Padding="0" Background="Transparent" BorderBrush="Transparent" Foreground="{DynamicResource TextSecondaryBrush}" Click="SidebarToggle_Click" ToolTip="Thu gọn thanh bên"><TextBlock x:Name="SidebarToggleIcon" Text="&#xE76B;" FontFamily="Segoe MDL2 Assets" FontSize="14" HorizontalAlignment="Center" VerticalAlignment="Center" /></Button>
+                        <TextBlock x:Name="SidebarToggleLabel" Text="Thu gọn" VerticalAlignment="Center" Foreground="{DynamicResource TextSecondaryBrush}" FontSize="11.5" Margin="3,0,0,0" Visibility="Collapsed" />
+                    </StackPanel>
                     <StackPanel Grid.Row="1">
                         <RadioButton x:Name="NavDashboard" Style="{StaticResource NavRadioButton}" GroupName="MainNav" Content="Tổng quan" Tag="&#xE80F;" CommandParameter="dashboard" IsChecked="True" Click="Nav_Click"/>
                         <RadioButton x:Name="NavClasses" Style="{StaticResource NavRadioButton}" GroupName="MainNav" Content="Quản lý lớp" Tag="&#xE8F1;" CommandParameter="classes" Click="Nav_Click"/>

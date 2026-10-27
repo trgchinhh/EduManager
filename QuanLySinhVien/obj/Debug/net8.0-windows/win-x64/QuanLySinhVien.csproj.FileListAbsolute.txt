@@ -1892,3 +1892,4 @@ D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySi
 D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\win-x64\EduManager.dll
 D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\win-x64\refint\EduManager.dll
 D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\win-x64\ref\EduManager.dll
+D:\STU\Năm 3\Lập trình hướng đối tượng (LT)\Ungdung - Copy\QuanLySinhVien\obj\Debug\net8.0-windows\win-x64\QuanLySinhVien.sourcelink.json

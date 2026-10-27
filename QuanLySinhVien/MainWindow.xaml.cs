@@ -112,8 +112,9 @@ public partial class MainWindow : Window
         SidebarColumn.Width = new GridLength(_sidebarCollapsed ? 68 : 220);
         Tag = _sidebarCollapsed;
         SidebarToggleIcon.Text = _sidebarCollapsed ? "\uE700" : "\uE76B";
-        SidebarToggleButton.HorizontalAlignment = _sidebarCollapsed ? HorizontalAlignment.Center : HorizontalAlignment.Left;
-        SidebarToggleButton.Margin = _sidebarCollapsed ? new Thickness(0) : new Thickness(9, 0, 0, 0);
+        SidebarTogglePanel.HorizontalAlignment = _sidebarCollapsed ? HorizontalAlignment.Center : HorizontalAlignment.Left;
+        SidebarTogglePanel.Margin = _sidebarCollapsed ? new Thickness(0) : new Thickness(9, 0, 0, 0);
+        SidebarToggleLabel.Visibility = _sidebarCollapsed ? Visibility.Collapsed : Visibility.Visible;
         SidebarToggleButton.ToolTip = _sidebarCollapsed ? "Mở rộng thanh bên" : "Thu gọn thanh bên";
         LogoutText.Visibility = _sidebarCollapsed ? Visibility.Collapsed : Visibility.Visible;
         LogoutIcon.Visibility = _sidebarCollapsed ? Visibility.Visible : Visibility.Collapsed;
